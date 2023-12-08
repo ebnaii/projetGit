@@ -2,8 +2,8 @@
 name: BUG REPORT
 about: Report a bug for us to fix
 title: "[BUG]"
-labels: ''
-assignees: ''
+labels: bug
+assignees: adamlbrdn1, ebnaii
 
 ---
 
