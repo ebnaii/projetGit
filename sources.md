@@ -8,7 +8,7 @@ Suivre votre commande
 
 Regarder la carte
 
-Laisser un retour (BUG numéro de retour)
+~~Laisser un retour (BUG numéro de retour)~~~
 
 Réserver une table (BUG d'affichage sur la liste des tables)
 
