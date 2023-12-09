@@ -2,7 +2,7 @@
 
 ## Bienvenue dans notre restaurant 
 
-Clickez ici pour commander (BUG redirection)
+Clickez ici pour commander (~~BUG redirection FIXED~~) 
 
 Suivre votre commande
 
