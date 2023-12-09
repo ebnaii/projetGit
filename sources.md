@@ -10,5 +10,5 @@ Regarder la carte
 
 Laisser un retour (BUG numéro de retour)
 
-~~Réserver une table (BUG d'affichage sur la liste des tables)~~
+Réserver une table (BUG d'affichage sur la liste des tables)
 
