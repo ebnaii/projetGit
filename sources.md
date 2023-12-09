@@ -4,7 +4,7 @@
 
 Clickez ici pour commander (~~BUG redirection FIXED~~) 
 
-Suivre votre commande
+~~Suivre votre commande~~
 
 Regarder la carte
 
