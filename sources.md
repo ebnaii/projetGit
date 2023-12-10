@@ -14,7 +14,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Erreur d'affichage sur le profil du chef Ryan~~
 
-Erreur lors du chat avec le bot de commande
+~~Erreur lors du chat avec le bot de commande~~
 
 Erreur d'affichage du plat couscous du chef Ryan
 
