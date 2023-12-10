@@ -18,7 +18,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Erreur d'affichage du plat couscous du chef Ryan~~
 
-Erreur de media queries sur téléphone
+~~Erreur de media queries sur téléphone~~
 
 Erreur de transaction lors du paiement 
 
