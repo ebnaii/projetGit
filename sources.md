@@ -2,13 +2,13 @@
 
 ## Bienvenue dans notre restaurant 
 
-Clickez ici pour commander (BUG redirection)
+Clickez ici pour commander (~~BUG redirection FIXED~~) 
 
-Suivre votre commande
+~~Suivre votre commande~~
 
-Regarder la carte
+~~Regarder la carte~~
 
-Laisser un retour (BUG numéro de retour)
+~~Laisser un retour (BUG numéro de retour)~~~
 
-Réserver une table (BUG d'affichage sur la liste des tables)
+~~Réserver une table (BUG d'affichage sur la liste des tables)~~
 
