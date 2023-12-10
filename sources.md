@@ -6,7 +6,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Suivre votre commande~~
 
-Regarder la carte
+~~Regarder la carte~~
 
 ~~Laisser un retour (BUG numéro de retour)~~~
 
