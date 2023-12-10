@@ -2,15 +2,15 @@ Name: Pull Request Template
 About: Template for creating a Pull Request
 
 Pull Request Title
-Update User Authentication Process
+
 
 Description
-- This Pull Request addresses an issue with the user authentication process by implementing a more secure password hashing algorithm. The current system relies on outdated methods, exposing potential vulnerabilities. The update enhances security measures and ensures a safer user authentication experience.
+- 
 
 Checklist
- - Branch Update: Verified that my branch is up-to-date with the main branch.
+- Branch Update: Verified that my branch is up-to-date with the develop branch.
 
- - Local Testing: Tested my changes locally to ensure they function as intended. For example:
+- Local Testing: Tested my changes locally to ensure they function as intended. For example:
 
 - Ran authentication tests to validate the new password hashing mechanism.
 - Checked user login functionality to confirm compatibility.
