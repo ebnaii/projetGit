@@ -30,4 +30,4 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Le rafraichissement des pages est trop long~~
 
-Disponibilité des tables non valides
+~~Disponibilité des tables non valides~~
