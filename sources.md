@@ -20,7 +20,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Erreur de media queries sur téléphone~~
 
-Erreur de transaction lors du paiement 
+~~Erreur de transaction lors du paiement~~ 
 
 Erreur d'affichage des allergènes
 
