@@ -24,7 +24,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Erreur d'affichage des allergènes~~
 
-Image non conforme avec le plat 
+~~Image non conforme avec le plat~~
 
 Le site ne fonctionne pas sur certains naviguateur
 
