@@ -22,7 +22,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Erreur de transaction lors du paiement~~ 
 
-Erreur d'affichage des allergènes
+~~Erreur d'affichage des allergènes~~
 
 Image non conforme avec le plat 
 
