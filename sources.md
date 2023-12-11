@@ -28,6 +28,6 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Le site ne fonctionne pas sur certains naviguateur~~
 
-Le rafraichissement des pages est trop long
+~~Le rafraichissement des pages est trop long~~
 
 Disponibilité des tables non valides
