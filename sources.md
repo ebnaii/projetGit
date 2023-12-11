@@ -26,7 +26,7 @@ Clickez ici pour commander (~~BUG redirection FIXED~~)
 
 ~~Image non conforme avec le plat~~
 
-Le site ne fonctionne pas sur certains naviguateur
+~~Le site ne fonctionne pas sur certains naviguateur~~
 
 Le rafraichissement des pages est trop long
 
